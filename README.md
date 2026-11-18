@@ -32,6 +32,4 @@ This repository demonstrates:
 
 ## Repository
 
-`https://github.com/<your-username>/git-version-control`
-
-*(Replace `<your-username>` with your GitHub username before submitting.)*
+https://github.com/Syed-Iliyas/Git-Version-Control
